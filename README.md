@@ -16,7 +16,8 @@
 I am Ashish Avinash Kamat, a Senior DevOps Engineer passionate about CI CD, Containerization, Infrastructure Automation and many more. 
 
 ```
-DevOps (noun):  is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes..
+DevOps (noun): s a set of practices that combines software development (Dev) and IT operations (Ops). 
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.[1][2] D
 ```
 - :computer: I code in python and bash.
 - 🌱 I’m currently learning SRE practices and DevOps processes.
