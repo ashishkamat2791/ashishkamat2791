@@ -13,7 +13,7 @@
 ---
 ## Hi  Welcome to DevOps World!👋
 ---
-I am Ashish Avinash Kamat, a Senior DevOps Engineer passionate about CI CD, Containerization, Infrastructure Automation and many more. 
+I am Ashish Avinash Kamat, a Senior DevOps/SRE Engineer passionate about CI CD, Containerization, Infrastructure Automation and many more. 
 
 ```
 DevOps (noun): s a set of practices that combines software development (Dev) and IT operations (Ops). 
@@ -26,8 +26,8 @@ It aims to shorten the systems development life cycle and provide continuous del
 - ⚡ Fun fact: I talk less. I am a fun loving person with great humor and can be good mentor.
 
 ```
-def 6YearsOfIT(self):
-    year = 6
+def 7YearsOfIT(self):
+    year = 7
     prevWorkDone = 0
     while(year<7):
         workDone = int(input())
