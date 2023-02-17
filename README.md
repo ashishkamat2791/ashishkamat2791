@@ -17,8 +17,11 @@ I am Ashish Avinash Kamat, a Senior DevOps/SRE Engineer passionate about CI CD, 
 
 ```
 DevOps (noun): s a set of practices that combines software development (Dev) and IT operations (Ops). 
-It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.[1][2] D
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.[1][2] 
 ```
+![devops-diagram](images/devops-1.png)
+
+
 - :computer: I code in python and bash.
 - 🌱 I’m currently learning SRE practices and DevOps processes.
 - 👯 I’m looking for different ways of Infrastructure Automation, DevOps improvements.
@@ -26,10 +29,10 @@ It aims to shorten the systems development life cycle and provide continuous del
 - ⚡ Fun fact: I talk less. I am a fun loving person with great humor and can be good mentor.
 
 ```
-def 7YearsOfIT(self):
-    year = 7
+def YearsOfIT(self):
+    year = 8
     prevWorkDone = 0
-    while(year<7):
+    while(year<8):
         workDone = int(input())
         if workDone>prevWorkDone:
            print("Keep it Up!")
